@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Chat Firebase"
+rootProject.name = "Whatsapp2"
 include(":app")
  
