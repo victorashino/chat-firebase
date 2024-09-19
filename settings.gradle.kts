@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Whatsapp2"
+rootProject.name = "Watizape"
 include(":app")
- 
+include(":authentication")

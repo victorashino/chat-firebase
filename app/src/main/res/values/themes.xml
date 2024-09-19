@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.ChatFirebase" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Tema com fundo transparente para a splash screen -->
+    <style name="Theme.ChatFirebase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
 </resources>
